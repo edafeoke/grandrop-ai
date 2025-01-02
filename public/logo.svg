@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="90" stroke="#7C3AED" stroke-width="12"/>
+  
+  <!-- Letter G -->
+  <path d="M100 40
+           A60 60 0 0 1 160 100
+           L130 100
+           A30 30 0 0 0 100 70
+           A30 30 0 0 0 70 100
+           A30 30 0 0 0 100 130
+           L100 160
+           A60 60 0 0 1 40 100
+           A60 60 0 0 1 100 40Z" 
+        fill="#7C3AED"/>
+  
+  <!-- AI dots -->
+  <circle cx="130" cy="90" r="10" fill="#7C3AED"/>
+  <circle cx="160" cy="90" r="10" fill="#7C3AED"/>
+  
+  <!-- Connection lines -->
+  <line x1="100" y1="130" x2="130" y2="90" stroke="#7C3AED" stroke-width="6"/>
+  <line x1="130" y1="90" x2="160" y2="90" stroke="#7C3AED" stroke-width="6"/>
+</svg>
+

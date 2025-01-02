@@ -1,0 +1,34 @@
+<svg width="500" height="600" viewBox="0 0 500 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="500" height="600" fill="white"/>
+  
+  <!-- Header -->
+  <rect width="500" height="60" fill="#F9FAFB"/>
+  <circle cx="30" cy="30" r="20" fill="#E5E7EB"/>
+  <rect x="60" y="25" width="100" height="10" rx="2" fill="#374151"/>
+  
+  <!-- Sidebar -->
+  <rect width="160" height="540" y="60" fill="#F9FAFB"/>
+  <rect x="20" y="80" width="120" height="30" rx="4" fill="#E5E7EB"/>
+  <rect x="20" y="120" width="120" height="30" rx="4" fill="#E5E7EB"/>
+  <rect x="20" y="160" width="120" height="30" rx="4" fill="#E5E7EB"/>
+  
+  <!-- Chat Area -->
+  <!-- Message 1 -->
+  <circle cx="190" cy="100" r="20" fill="#7C3AED"/>
+  <rect x="220" y="80" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  
+  <!-- Message 2 -->
+  <circle cx="190" cy="160" r="20" fill="#E5E7EB"/>
+  <rect x="220" y="140" width="240" height="40" rx="4" fill="#F3F4F6"/>
+  
+  <!-- Message 3 -->
+  <circle cx="190" cy="220" r="20" fill="#7C3AED"/>
+  <rect x="220" y="200" width="180" height="40" rx="4" fill="#F3F4F6"/>
+  
+  <!-- Input Area -->
+  <rect x="180" y="540" width="300" height="50" rx="8" fill="#F9FAFB"/>
+  <rect x="200" y="555" width="200" height="20" rx="2" fill="#E5E7EB"/>
+  <circle cx="460" cy="565" r="15" fill="#7C3AED"/>
+</svg>
+
